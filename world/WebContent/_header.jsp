@@ -8,7 +8,7 @@
 </head>
 <body>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-  <nav class="navbar navbar-expand-sm navbar-dark bg-dark" aria-label="Third navbar example">
+  <nav class="navbar navbar-expand-sm navbar-dark bg-dark" aria-label="Third navbar example" >
     <div class="container-fluid">
       <a class="navbar-brand" href="#">hayun's home</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample03" aria-controls="navbarsExample03" aria-expanded="false" aria-label="Toggle navigation">
